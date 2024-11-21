@@ -1,3 +1,4 @@
 # MotiAuto
 
-![Untitled](https://github.com/MotiAuto/.github/assets/108280115/d6fe15ff-4a64-4fb2-b940-1664084a460c)
+
+![moti_auto](https://github.com/user-attachments/assets/b6b32bc2-f04b-4b85-b45d-92ac8af32038)
